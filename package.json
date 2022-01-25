@@ -1,0 +1,25 @@
+{
+  "name": "yomama",
+  "version": "1.0.0",
+  "description": "some random thing",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadowlol2/myrandom.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "shadow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shadowlol2/myrandom/issues"
+  },
+  "homepage": "https://github.com/shadowlol2/myrandom#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
